@@ -3,3 +3,5 @@ this is my app.
 f1: this is feature1
 
 f2: this is feature2
+
+f3: this is feature3
